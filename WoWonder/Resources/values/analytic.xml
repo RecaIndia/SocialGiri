@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <!--ADMOB APPLICATION_ID >> ca-app-pub-xxxxxxxxxxxxxxxx~yyyyyyyyyy-->
+  <string name="admob_app_id">ca-app-pub-5967747028168692~3566278480</string> 
+  <string name="banner_ad_unit_id">ca-app-pub-5967747028168692/4444886511</string>
+  <string name="banner_multiple_ad_sizes_id">ca-app-pub-5967747028168692/1983127017</string>
+  <string name="ad_attribution">Ad</string> 
+  <!--===============================================================-->
+
+  <!--facebook ID-->
+  <string name="facebook_app_id">250485588986218</string>
+  <string name="fb_login_protocol_scheme">fb250485588986218</string>
+  <string name="icon_desc">Ad icon</string>
+  <string name="image_desc">Ad image</string>
+  <string name="sponsored">Sponsored</string>
+  <!--===============================================================-->
+
+  <!--google ID-->
+  <string name="google_key">AIzaSyBKeZe5l_7w6gOkDL_Nm5lIR8FDD7WRLKM</string>
+
+  <!--https://developers.google.com/maps/documentation/maps-static/intro--> 
+  <string name="google_maps_key">AIzaSyDIJ9XX2ZvRKCJcFRrl-lRanEtFUow4piM</string>
+
+</resources>

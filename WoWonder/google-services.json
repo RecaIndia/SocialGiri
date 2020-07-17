@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "225381302146",
+        "firebase_url": "https://hoost-262505.firebaseio.com",
+        "project_id": "hoost-262505",
+        "storage_bucket": "hoost-262505.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:225381302146:android:76ba80ebeb939062a4599b",
+                "android_client_info": {
+                    "package_name": "com.socialgiri.timeline"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "225381302146-mq2e0afctuivvoqts8blm07g5g25cgu3.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBJoGOoooESFlHmtTtKFbZgJdyZKIwRJ88"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "225381302146-igm9fubls0s3j86f4oanrbj809sm5onv.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
